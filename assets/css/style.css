@@ -1,0 +1,22 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    background-color: #ccc;
+}
+
+.jumbotron{
+    text-align: center;
+    margin: 0px;
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #ccc;
+}
+
+#game{
+    text-align: none;
+}
+
+h2{
+    top: 10px;
+}
